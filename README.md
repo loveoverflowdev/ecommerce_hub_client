@@ -1,4 +1,4 @@
-# ecommerce_hub_client
+# ecommerce_hub
 
 A new Flutter project.
 

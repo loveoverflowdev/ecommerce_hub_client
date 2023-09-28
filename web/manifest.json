@@ -1,6 +1,6 @@
 {
-    "name": "ecommerce_hub_client",
-    "short_name": "ecommerce_hub_client",
+    "name": "ecommerce_hub",
+    "short_name": "ecommerce_hub",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
